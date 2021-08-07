@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/satyam/Downloads/GitHub/PostureDetection/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/satyam/Downloads/GitHub/PostureDetection/app/build/intermediates/res/merged/debug/drawable_tfl2_logo.png.flat",
+        "source": "/Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/res/drawable/tfl2_logo.png"
+    },
+    {
+        "merged": "/Users/satyam/Downloads/GitHub/PostureDetection/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/satyam/Downloads/GitHub/PostureDetection/app/build/intermediates/res/merged/debug/drawable_rounded_edge.xml.flat",
+        "source": "/Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/res/drawable/rounded_edge.xml"
+    },
+    {
+        "merged": "/Users/satyam/Downloads/GitHub/PostureDetection/app/build/intermediates/res/merged/debug/layout_bottom_sheet_layout.xml.flat",
+        "source": "/Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/res/layout/bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "/Users/satyam/Downloads/GitHub/PostureDetection/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/satyam/Downloads/GitHub/PostureDetection/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icn_chevron_up.png.flat",
+        "source": "/Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/res/drawable-xxhdpi/icn_chevron_up.png"
+    }
+]

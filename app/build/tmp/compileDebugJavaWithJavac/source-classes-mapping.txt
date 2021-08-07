@@ -1,0 +1,2 @@
+org/tensorflow/lite/examples/poseestimation/BuildConfig.java
+ org.tensorflow.lite.examples.poseestimation.BuildConfig

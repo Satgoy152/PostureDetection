@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.5] /Users/satyam/.gradle/caches/transforms-3/3deee5bc85eb14675d697e0fed1b1c63/transformed/jetified-fragment-ktx-1.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/satyam/.gradle/caches/transforms-3/0c61668caa56f65bef4757a1447cf691/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/satyam/.gradle/caches/transforms-3/a80f413a46dfeb7b8b5049251145859f/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/satyam/.gradle/caches/transforms-3/5a856017a699766317c8688d2794ca70/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/satyam/.gradle/caches/transforms-3/f7e0717683b03af531c6943342ef22e5/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/satyam/.gradle/caches/transforms-3/1b837eda184363afaec496360c5ce657/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/satyam/.gradle/caches/transforms-3/3115287699cac751a796057f47ee805c/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/satyam/.gradle/caches/transforms-3/daca5e6fb3d8b95f9b32a8a776d5b8dd/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/satyam/.gradle/caches/transforms-3/fd144cc0f2bdba9771cbe28627f564b4/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/satyam/.gradle/caches/transforms-3/768db5ed72b95359f05b2e152ce20d4a/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] /Users/satyam/.gradle/caches/transforms-3/1678fce3c512457ad9cc1c6dce838c6c/transformed/jetified-tensorflow-lite-support-0.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] /Users/satyam/.gradle/caches/transforms-3/d6a64bc73426924d813375526b34061d/transformed/jetified-tensorflow-lite-2.5.0/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.5.0] /Users/satyam/.gradle/caches/transforms-3/0db433cb0a17d30693a224ad1c90a3ef/transformed/jetified-tensorflow-lite-gpu-2.5.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/satyam/.gradle/caches/transforms-3/1868a045966fd62060294fbcecab56e0/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.5] /Users/satyam/.gradle/caches/transforms-3/3030f89694d93e2a0c3695afdb32d9da/transformed/fragment-1.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/satyam/.gradle/caches/transforms-3/4eb85bfa2f115519b3284e6c63100774/transformed/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/satyam/.gradle/caches/transforms-3/af7195e2d2e4fca3d55c93fc58eac6e7/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/satyam/.gradle/caches/transforms-3/7bd7d9155ba175179beaf7472ecca293/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/satyam/.gradle/caches/transforms-3/d03e0b5bb75c1087879c94389e65d7c7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/satyam/.gradle/caches/transforms-3/1aa14562cd29b8720587957da5475a09/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/satyam/.gradle/caches/transforms-3/0d5e63cd77bcf01847b6c9cd0af4f510/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/satyam/.gradle/caches/transforms-3/450b6d5e01a7ae4d0cff228fdfb92de4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/satyam/.gradle/caches/transforms-3/a8ebec7c3fc33e8bdbedc6e76b6027b2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/satyam/.gradle/caches/transforms-3/8c16ad4ce92563ae6c32155a7ac5773c/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/satyam/.gradle/caches/transforms-3/e146b8cdcc5b3592186d6c1d77aa2b5c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/satyam/.gradle/caches/transforms-3/63ffb42e1824b6661917ac9a6b24e2a5/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/satyam/.gradle/caches/transforms-3/c5a3d3fdb5c6fae047b3a74a88173ff4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/satyam/.gradle/caches/transforms-3/edda15c8492d7045aead01ab848b9164/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/satyam/.gradle/caches/transforms-3/7ec31ebddd42af6b151e0e76e652292c/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/satyam/.gradle/caches/transforms-3/a10dc9441451a408c8e4d8fe538959cd/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/satyam/.gradle/caches/transforms-3/9acae571d84d3e20b70e2b0a4e1e8da5/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/satyam/.gradle/caches/transforms-3/0b00caade7bafda8274876002389ecf2/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/satyam/.gradle/caches/transforms-3/da3813e28d2e33166a17286263f85532/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/satyam/.gradle/caches/transforms-3/ce5cf7303d786b7e8e65b4f97bb3208d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/satyam/.gradle/caches/transforms-3/590b6eb27c316e57ef3ed7899dd9c425/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/satyam/.gradle/caches/transforms-3/0667c33af34945e898634d34fd59ee31/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/satyam/.gradle/caches/transforms-3/b1a7c3036f1ac958d0717abae4618cc7/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/satyam/.gradle/caches/transforms-3/becd268c690555c135e1cfe0ab3c16cd/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/satyam/.gradle/caches/transforms-3/b1d960ee8929aa51be590eff9b96a2ad/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/satyam/.gradle/caches/transforms-3/b13a1bd7195f0259c005c2abdc3069d0/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/satyam/.gradle/caches/transforms-3/6afc9cc26efe13f0bc2ac395138084fb/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/satyam/.gradle/caches/transforms-3/723fb031d3a7a9104eb65befdf936c45/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/satyam/.gradle/caches/transforms-3/c04c2d1dca130333d9407a6158c8fecf/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/satyam/.gradle/caches/transforms-3/54106b085484ab40b471d135a9e3ea5a/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/satyam/.gradle/caches/transforms-3/853413c80e509b298a0eda2816bb2dde/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:3:5-58
+		INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:6:5-8:35
+	android:required
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:7:9-47
+application
+ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:9:5-22:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/satyam/.gradle/caches/transforms-3/daca5e6fb3d8b95f9b32a8a776d5b8dd/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/satyam/.gradle/caches/transforms-3/daca5e6fb3d8b95f9b32a8a776d5b8dd/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/satyam/.gradle/caches/transforms-3/fd144cc0f2bdba9771cbe28627f564b4/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/satyam/.gradle/caches/transforms-3/fd144cc0f2bdba9771cbe28627f564b4/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] /Users/satyam/.gradle/caches/transforms-3/d6a64bc73426924d813375526b34061d/transformed/jetified-tensorflow-lite-2.5.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] /Users/satyam/.gradle/caches/transforms-3/d6a64bc73426924d813375526b34061d/transformed/jetified-tensorflow-lite-2.5.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.5.0] /Users/satyam/.gradle/caches/transforms-3/0db433cb0a17d30693a224ad1c90a3ef/transformed/jetified-tensorflow-lite-gpu-2.5.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.5.0] /Users/satyam/.gradle/caches/transforms-3/0db433cb0a17d30693a224ad1c90a3ef/transformed/jetified-tensorflow-lite-gpu-2.5.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/satyam/.gradle/caches/transforms-3/7ec31ebddd42af6b151e0e76e652292c/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/satyam/.gradle/caches/transforms-3/7ec31ebddd42af6b151e0e76e652292c/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/satyam/.gradle/caches/transforms-3/0667c33af34945e898634d34fd59ee31/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/satyam/.gradle/caches/transforms-3/0667c33af34945e898634d34fd59ee31/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/satyam/.gradle/caches/transforms-3/7ec31ebddd42af6b151e0e76e652292c/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:12:9-48
+	android:roundIcon
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:13:9-50
+	android:icon
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:15:9-52
+activity#org.tensorflow.lite.examples.poseestimation.MainActivity
+ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment-ktx:1.3.5] /Users/satyam/.gradle/caches/transforms-3/3deee5bc85eb14675d697e0fed1b1c63/transformed/jetified-fragment-ktx-1.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.5] /Users/satyam/.gradle/caches/transforms-3/3deee5bc85eb14675d697e0fed1b1c63/transformed/jetified-fragment-ktx-1.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/satyam/.gradle/caches/transforms-3/0c61668caa56f65bef4757a1447cf691/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/satyam/.gradle/caches/transforms-3/0c61668caa56f65bef4757a1447cf691/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/satyam/.gradle/caches/transforms-3/a80f413a46dfeb7b8b5049251145859f/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/satyam/.gradle/caches/transforms-3/a80f413a46dfeb7b8b5049251145859f/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/satyam/.gradle/caches/transforms-3/5a856017a699766317c8688d2794ca70/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/satyam/.gradle/caches/transforms-3/5a856017a699766317c8688d2794ca70/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/satyam/.gradle/caches/transforms-3/f7e0717683b03af531c6943342ef22e5/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/satyam/.gradle/caches/transforms-3/f7e0717683b03af531c6943342ef22e5/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/satyam/.gradle/caches/transforms-3/1b837eda184363afaec496360c5ce657/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/satyam/.gradle/caches/transforms-3/1b837eda184363afaec496360c5ce657/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/satyam/.gradle/caches/transforms-3/3115287699cac751a796057f47ee805c/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/satyam/.gradle/caches/transforms-3/3115287699cac751a796057f47ee805c/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/satyam/.gradle/caches/transforms-3/daca5e6fb3d8b95f9b32a8a776d5b8dd/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/satyam/.gradle/caches/transforms-3/daca5e6fb3d8b95f9b32a8a776d5b8dd/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/satyam/.gradle/caches/transforms-3/fd144cc0f2bdba9771cbe28627f564b4/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/satyam/.gradle/caches/transforms-3/fd144cc0f2bdba9771cbe28627f564b4/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/satyam/.gradle/caches/transforms-3/768db5ed72b95359f05b2e152ce20d4a/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/satyam/.gradle/caches/transforms-3/768db5ed72b95359f05b2e152ce20d4a/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] /Users/satyam/.gradle/caches/transforms-3/1678fce3c512457ad9cc1c6dce838c6c/transformed/jetified-tensorflow-lite-support-0.2.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] /Users/satyam/.gradle/caches/transforms-3/1678fce3c512457ad9cc1c6dce838c6c/transformed/jetified-tensorflow-lite-support-0.2.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] /Users/satyam/.gradle/caches/transforms-3/d6a64bc73426924d813375526b34061d/transformed/jetified-tensorflow-lite-2.5.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] /Users/satyam/.gradle/caches/transforms-3/d6a64bc73426924d813375526b34061d/transformed/jetified-tensorflow-lite-2.5.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.5.0] /Users/satyam/.gradle/caches/transforms-3/0db433cb0a17d30693a224ad1c90a3ef/transformed/jetified-tensorflow-lite-gpu-2.5.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.5.0] /Users/satyam/.gradle/caches/transforms-3/0db433cb0a17d30693a224ad1c90a3ef/transformed/jetified-tensorflow-lite-gpu-2.5.0/AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/satyam/.gradle/caches/transforms-3/1868a045966fd62060294fbcecab56e0/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/satyam/.gradle/caches/transforms-3/1868a045966fd62060294fbcecab56e0/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.5] /Users/satyam/.gradle/caches/transforms-3/3030f89694d93e2a0c3695afdb32d9da/transformed/fragment-1.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.5] /Users/satyam/.gradle/caches/transforms-3/3030f89694d93e2a0c3695afdb32d9da/transformed/fragment-1.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/satyam/.gradle/caches/transforms-3/4eb85bfa2f115519b3284e6c63100774/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/satyam/.gradle/caches/transforms-3/4eb85bfa2f115519b3284e6c63100774/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/satyam/.gradle/caches/transforms-3/af7195e2d2e4fca3d55c93fc58eac6e7/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/satyam/.gradle/caches/transforms-3/af7195e2d2e4fca3d55c93fc58eac6e7/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/satyam/.gradle/caches/transforms-3/7bd7d9155ba175179beaf7472ecca293/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/satyam/.gradle/caches/transforms-3/7bd7d9155ba175179beaf7472ecca293/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/satyam/.gradle/caches/transforms-3/d03e0b5bb75c1087879c94389e65d7c7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/satyam/.gradle/caches/transforms-3/d03e0b5bb75c1087879c94389e65d7c7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/satyam/.gradle/caches/transforms-3/1aa14562cd29b8720587957da5475a09/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/satyam/.gradle/caches/transforms-3/1aa14562cd29b8720587957da5475a09/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/satyam/.gradle/caches/transforms-3/0d5e63cd77bcf01847b6c9cd0af4f510/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/satyam/.gradle/caches/transforms-3/0d5e63cd77bcf01847b6c9cd0af4f510/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/satyam/.gradle/caches/transforms-3/450b6d5e01a7ae4d0cff228fdfb92de4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/satyam/.gradle/caches/transforms-3/450b6d5e01a7ae4d0cff228fdfb92de4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/satyam/.gradle/caches/transforms-3/a8ebec7c3fc33e8bdbedc6e76b6027b2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/satyam/.gradle/caches/transforms-3/a8ebec7c3fc33e8bdbedc6e76b6027b2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/satyam/.gradle/caches/transforms-3/8c16ad4ce92563ae6c32155a7ac5773c/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/satyam/.gradle/caches/transforms-3/8c16ad4ce92563ae6c32155a7ac5773c/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/satyam/.gradle/caches/transforms-3/e146b8cdcc5b3592186d6c1d77aa2b5c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/satyam/.gradle/caches/transforms-3/e146b8cdcc5b3592186d6c1d77aa2b5c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/satyam/.gradle/caches/transforms-3/63ffb42e1824b6661917ac9a6b24e2a5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/satyam/.gradle/caches/transforms-3/63ffb42e1824b6661917ac9a6b24e2a5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/satyam/.gradle/caches/transforms-3/c5a3d3fdb5c6fae047b3a74a88173ff4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/satyam/.gradle/caches/transforms-3/c5a3d3fdb5c6fae047b3a74a88173ff4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/satyam/.gradle/caches/transforms-3/edda15c8492d7045aead01ab848b9164/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/satyam/.gradle/caches/transforms-3/edda15c8492d7045aead01ab848b9164/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/satyam/.gradle/caches/transforms-3/7ec31ebddd42af6b151e0e76e652292c/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/satyam/.gradle/caches/transforms-3/7ec31ebddd42af6b151e0e76e652292c/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/satyam/.gradle/caches/transforms-3/a10dc9441451a408c8e4d8fe538959cd/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/satyam/.gradle/caches/transforms-3/a10dc9441451a408c8e4d8fe538959cd/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/satyam/.gradle/caches/transforms-3/9acae571d84d3e20b70e2b0a4e1e8da5/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/satyam/.gradle/caches/transforms-3/9acae571d84d3e20b70e2b0a4e1e8da5/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/satyam/.gradle/caches/transforms-3/0b00caade7bafda8274876002389ecf2/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/satyam/.gradle/caches/transforms-3/0b00caade7bafda8274876002389ecf2/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/satyam/.gradle/caches/transforms-3/da3813e28d2e33166a17286263f85532/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/satyam/.gradle/caches/transforms-3/da3813e28d2e33166a17286263f85532/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/satyam/.gradle/caches/transforms-3/ce5cf7303d786b7e8e65b4f97bb3208d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/satyam/.gradle/caches/transforms-3/ce5cf7303d786b7e8e65b4f97bb3208d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/satyam/.gradle/caches/transforms-3/590b6eb27c316e57ef3ed7899dd9c425/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/satyam/.gradle/caches/transforms-3/590b6eb27c316e57ef3ed7899dd9c425/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/satyam/.gradle/caches/transforms-3/0667c33af34945e898634d34fd59ee31/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/satyam/.gradle/caches/transforms-3/0667c33af34945e898634d34fd59ee31/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/satyam/.gradle/caches/transforms-3/b1a7c3036f1ac958d0717abae4618cc7/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/satyam/.gradle/caches/transforms-3/b1a7c3036f1ac958d0717abae4618cc7/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/satyam/.gradle/caches/transforms-3/becd268c690555c135e1cfe0ab3c16cd/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/satyam/.gradle/caches/transforms-3/becd268c690555c135e1cfe0ab3c16cd/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/satyam/.gradle/caches/transforms-3/b1d960ee8929aa51be590eff9b96a2ad/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/satyam/.gradle/caches/transforms-3/b1d960ee8929aa51be590eff9b96a2ad/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/satyam/.gradle/caches/transforms-3/b13a1bd7195f0259c005c2abdc3069d0/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/satyam/.gradle/caches/transforms-3/b13a1bd7195f0259c005c2abdc3069d0/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/satyam/.gradle/caches/transforms-3/6afc9cc26efe13f0bc2ac395138084fb/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/satyam/.gradle/caches/transforms-3/6afc9cc26efe13f0bc2ac395138084fb/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/satyam/.gradle/caches/transforms-3/723fb031d3a7a9104eb65befdf936c45/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/satyam/.gradle/caches/transforms-3/723fb031d3a7a9104eb65befdf936c45/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/satyam/.gradle/caches/transforms-3/c04c2d1dca130333d9407a6158c8fecf/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/satyam/.gradle/caches/transforms-3/c04c2d1dca130333d9407a6158c8fecf/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/satyam/.gradle/caches/transforms-3/54106b085484ab40b471d135a9e3ea5a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/satyam/.gradle/caches/transforms-3/54106b085484ab40b471d135a9e3ea5a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/satyam/.gradle/caches/transforms-3/853413c80e509b298a0eda2816bb2dde/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/satyam/.gradle/caches/transforms-3/853413c80e509b298a0eda2816bb2dde/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+		ADDED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+		MERGED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+		MERGED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satyam/Downloads/GitHub/PostureDetection/app/src/main/AndroidManifest.xml
