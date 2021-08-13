@@ -37,7 +37,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.DialogFragment
 import org.tensorflow.lite.examples.poseestimation.VisualizationUtils.drawBodyKeypoints
-import org.tensorflow.lite.examples.poseestimation.VisualizationUtils.findAngle
 import org.tensorflow.lite.examples.poseestimation.ml.ModelType
 import org.tensorflow.lite.examples.poseestimation.ml.MoveNet
 import org.tensorflow.lite.examples.poseestimation.ml.PoseDetector
@@ -142,7 +141,6 @@ class MainActivity : AppCompatActivity() {
                     .show(supportFragmentManager, FRAGMENT_DIALOG)
             }
         }
-
     private var imageAvailableListener = object : ImageReader.OnImageAvailableListener {
         override fun onImageAvailable(imageReader: ImageReader) {
             // We need wait until we have some size from onPreviewSizeChosen
@@ -456,8 +454,6 @@ class MainActivity : AppCompatActivity() {
         poseDetector?.estimateSinglePose(bitmap)?.let { person ->
             score = person.score
             if (score > minConfidence) {
-                //println("Confidence High ***********************")
-                findAngle(person)
                 outputBitmap = drawBodyKeypoints(bitmap, person)
             }
         }
