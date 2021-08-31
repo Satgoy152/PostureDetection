@@ -6,9 +6,7 @@ import android.graphics.Color
 import android.graphics.Paint
 import org.tensorflow.lite.examples.poseestimation.data.BodyPart
 import org.tensorflow.lite.examples.poseestimation.data.Person
-import java.sql.Array
-import kotlin.math.acos
-import kotlin.math.sqrt
+import kotlin.math.*
 
 object VisualizationUtils {
     /** Radius of circle used to draw keypoints.  */
@@ -43,10 +41,10 @@ object VisualizationUtils {
             Pair(BodyPart.LEFT_SHOULDER, BodyPart.LEFT_ELBOW)),
         Pair(Pair(BodyPart.RIGHT_ELBOW, BodyPart.RIGHT_WRIST),
             Pair(BodyPart.RIGHT_SHOULDER, BodyPart.RIGHT_ELBOW)),
-        Pair(Pair(BodyPart.LEFT_SHOULDER, BodyPart.RIGHT_SHOULDER),
-            Pair(BodyPart.LEFT_SHOULDER, BodyPart.LEFT_HIP)),
-        Pair(Pair(BodyPart.RIGHT_SHOULDER, BodyPart.RIGHT_HIP),
-            Pair(BodyPart.LEFT_SHOULDER, BodyPart.RIGHT_SHOULDER)),
+        Pair(Pair(BodyPart.LEFT_SHOULDER, BodyPart.LEFT_ELBOW),
+            Pair(BodyPart.LEFT_HIP, BodyPart.LEFT_SHOULDER)),
+        Pair(Pair(BodyPart.RIGHT_SHOULDER, BodyPart.RIGHT_ELBOW),
+            Pair(BodyPart.RIGHT_HIP, BodyPart.RIGHT_SHOULDER)),
         Pair(Pair(BodyPart.LEFT_HIP, BodyPart.LEFT_KNEE),
             Pair(BodyPart.LEFT_SHOULDER, BodyPart.LEFT_HIP)),
         Pair(Pair(BodyPart.RIGHT_HIP, BodyPart.RIGHT_KNEE),
@@ -58,21 +56,20 @@ object VisualizationUtils {
     )
 
 
-    private val angles = arrayOf(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0)
-    private val perfectPose = arrayOf(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0)
+    private var angles = arrayOf(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0)
+    private val perfectPoseWarriorRight = arrayOf(0.0,0.0,0.0,0.0,0.0,85.0,90.0,170.0,170.0,0.0,0.0,135.0,100.0,170.0,120.0)
+    private val perfectPoseTree = arrayOf(0.0)
+    private val perfectPoseDownwardDog = arrayOf(0.0,0.0,0.0,0.0,0.0,170.0,170.0,170.0,170.0,170.0,170.0,90.0,90.0,175.0,175.0)
+    private val perfectPosePlank = arrayOf(0.0,0.0,0.0,0.0,0.0,60.0,60.0,170.0,170.0,0.0,0.0,170.0,180.0,175.0,175.0)
+
+    private var currentPose = perfectPosePlank
+
     // Draw line and point indicate body pose
 
-    fun euclideanErrorCalc(array: Array<Double>): Int {
-        val len = angles.size
-        var sum = 0.0
-        for (i in 0..len){
-            sum += ((angles[i] - array[i])*(angles[i] - array[i]))
-        }
-    }
-
     fun drawBodyKeypoints(input: Bitmap, person: Person): Bitmap {
-        val p_text = Paint()
-        p_text.color = Color.WHITE
+        var totalError: Double = 0.0
+         val pText = Paint()
+        pText.color = Color.RED
         val paintCircle = Paint().apply {
             strokeWidth = CIRCLE_RADIUS
             color = Color.RED
@@ -111,14 +108,28 @@ object VisualizationUtils {
             // multiply magnitude of vector a by b
             val angle = Math.toDegrees((acos(numerator/denominator)).toDouble())
             //find arccos of numerator/denominator and convert to degrees
-            val number:Double = angle
-            val number3digits:Double = String.format("%.3f", number).toDouble()
-            val number2digits:Double = 180.0 - String.format("%.2f", number3digits).toDouble()
-            originalSizeCanvas.drawText(number2digits.toString(),(pointA.x+10f),(pointA.y+10f),p_text)
+            val number2digits:Double = 180.0 - String.format("%.2f", angle).toDouble()
+            //originalSizeCanvas.drawText(number2digits.toString(),(pointA.x+10f),(pointA.y+10f),pText)
             angles[it.first.first.position] = number2digits
+            var error = abs(((currentPose[it.first.first.position]- number2digits)/ currentPose[it.first.first.position]))
+
+            if (error > 0.15){
+                pText.textSize = 20f
+                error  *= 100
+                error = String.format("%.2f", error).toDouble()
+                originalSizeCanvas.drawText("<: $error %",(pointA.x+10f),(pointA.y+10f),pText)
+                totalError += error
+            }
         }
 
-        println("<" + angles[7] + ", " + angles[8] + ", " + angles[5] + ", " + angles[6] + ", " + angles[11] + ", " + angles[12] + ", " + angles[13] + ", " + angles[14] + ">")
+        var totalPercentError = totalError/8
+        if (totalError == 0.0){
+            totalPercentError = 0.0
+        }
+        pText.textSize = 30f
+        totalPercentError = String.format("%.2f", totalPercentError).toDouble()
+        originalSizeCanvas.drawText("Total Error: $totalPercentError %",(130.0f),(30.0f),pText)
+        //println("<" + angles[7] + ", " + angles[8] + ", " + angles[5] + ", " + angles[6] + ", " + angles[11] + ", " + angles[12] + ", " + angles[13] + ", " + angles[14] + ">")
 
         person.keyPoints.forEach { point ->
             originalSizeCanvas.drawCircle(

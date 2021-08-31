@@ -125,32 +125,32 @@
     </state>
     <state x="100" y="125" width="1240" height="617" key="AVDManager/0.25.1440.817/-347.-1055.1920.1055@0.25.1440.817" timestamp="1628737049888" />
     <state x="100" y="125" width="1240" height="617" key="AVDManager/0.25.1440.817@0.25.1440.817" timestamp="1628483508481" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1628824468139">
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1628830030378">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
     <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.25.1440.817/-347.-1055.1920.1055@0.25.1440.817" timestamp="1628824468139" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.25.1440.817@0.25.1440.817" timestamp="1628733574623" />
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.25.1440.817@0.25.1440.817" timestamp="1628830030378" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.25.1440.818@0.25.1440.818" timestamp="1628484168154" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.25.1440.819@0.25.1440.819" timestamp="1628485248537" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1628824468137">
+    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1628830030377">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
     <state width="1398" height="208" key="GridCell.Tab.0.center/0.25.1440.817/-347.-1055.1920.1055@0.25.1440.817" timestamp="1628824468137" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center/0.25.1440.817@0.25.1440.817" timestamp="1628733574620" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.25.1440.817@0.25.1440.817" timestamp="1628830030377" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.25.1440.818@0.25.1440.818" timestamp="1628484168152" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.25.1440.819@0.25.1440.819" timestamp="1628485248535" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1628824468135">
+    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1628830030376">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
     <state width="1398" height="208" key="GridCell.Tab.0.left/0.25.1440.817/-347.-1055.1920.1055@0.25.1440.817" timestamp="1628824468135" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left/0.25.1440.817@0.25.1440.817" timestamp="1628733574619" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.25.1440.817@0.25.1440.817" timestamp="1628830030376" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.25.1440.818@0.25.1440.818" timestamp="1628484168151" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.25.1440.819@0.25.1440.819" timestamp="1628485248534" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1628824468138">
+    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1628830030378">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
     <state width="1398" height="208" key="GridCell.Tab.0.right/0.25.1440.817/-347.-1055.1920.1055@0.25.1440.817" timestamp="1628824468138" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right/0.25.1440.817@0.25.1440.817" timestamp="1628733574622" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.25.1440.817@0.25.1440.817" timestamp="1628830030378" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.25.1440.818@0.25.1440.818" timestamp="1628484168153" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.25.1440.819@0.25.1440.819" timestamp="1628485248536" />
     <state width="1398" height="209" key="GridCell.Tab.1.bottom" timestamp="1628527444870">
@@ -177,10 +177,11 @@
       <screen x="0" y="25" width="1440" height="817" />
     </state>
     <state x="430" y="246" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog/0.25.1440.817@0.25.1440.817" timestamp="1628483063440" />
-    <state x="522" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628324361561">
+    <state x="522" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628830018643">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
     <state x="522" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.817/-347.-1055.1920.1055@0.25.1440.817" timestamp="1628324361561" />
+    <state x="522" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.817@0.25.1440.817" timestamp="1628830018643" />
     <state x="385" y="195" key="run.anything.popup" timestamp="1628742123770">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
